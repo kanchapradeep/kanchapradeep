@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Pradeep Kancha! 👋
 
-<!--
-**kanchapradeep/kanchapradeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Anything you get without struggle can be lost just as easily. But what you work hard for—what you pursue with every breath—will never leave you."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **About Me**  
+I'm a student graduating in 2025 with a degree in Computer Science & Information Technology. I love solving problems, learning new technologies, and building things that make life easier.
+
+💡 **Skills**
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Database:** Oracle SQL
+- **Technologies:** JDBC Connectivity
+
+🎬 **Hobbies & Interests**
+- Watching mythology-related content and movies
+- Exploring new tech and coding challenges
+
+🌱 **Looking Forward To**
+- Contributing to open-source projects
+- Building impactful software solutions
+- Connecting with like-minded developers
+
+📫 **Connect With Me**
+- [LinkedIn](https://www.linkedin.com/in/kancha-pradeep-2aa661281)
+<!-- Add more socials or your personal website here if you like -->
+
+🚀 **Projects**
+> _Coming soon!_  
+I'll be updating this section with my favorite projects and achievements.
+
+---
+
+Thanks for visiting my profile! Let's learn and grow together. 😊
