@@ -5,7 +5,7 @@
 ---
 
 🎓 **About Me**  
-I'm a student graduating in 2025 with a degree in Computer Science & Information Technology. I love solving problems, learning new technologies, and building things that make life easier.
+I'm a student graduated in 2025 with a degree in Computer Science & Information Technology. I love solving problems, learning new technologies, and building things that make life easier.
 
 💡 **Skills**
 - **Languages:** Java, HTML, CSS, JavaScript
